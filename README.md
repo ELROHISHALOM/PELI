@@ -1,2 +1,0 @@
-# PELI
-PELICULAS
